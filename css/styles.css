@@ -9,3 +9,15 @@
 img {
   padding: 10px;
 }
+.first {
+  text-align: center;
+  color: blueviolet;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.second {
+  text-align: center;
+  color: green;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
